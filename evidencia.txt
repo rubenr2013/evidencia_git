@@ -1,0 +1,6 @@
+nombre: ruben 
+apellidos: reyes ortega 
+correo: rr2685346@gmail.com
+edad: 20
+sexo: masculino 
+educacion: bachillerato
